@@ -1,4 +1,5 @@
 Padavala Devi Durga Sireesha
+Veltech University, Avadi, Chennai
 9032898236
 **PROJECT OVERVIEW:**
 The Employee Attendance Management System is a web-based application designed to manage and track employee attendance digitally.
