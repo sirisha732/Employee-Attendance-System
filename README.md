@@ -54,6 +54,34 @@ Each attendance record includes:
     Date
     Attendance Status
     Timestamp
+**SCHEMA STRUCTURE:**
+{
+  "_id": "ObjectId",
+  "userId": "ObjectId",
+  "date": "2026-02-16",
+  "checkInTime": "09:15 AM",
+  "checkOutTime": "06:00 PM",
+  "status": "Present",
+  "totalHours": 8,
+  "createdAt": "2026-02-16T09:15:00Z"
+}
+**USERS:**
+{
+  "name": "Sireesha",
+  "email": "sireesha@gmail.com",
+  "password": "$2b$10$abc123xyz",
+  "role": "employee"
+}
+**Attendance:**
+{
+  "userId": "65d12f123abc901234",
+  "date": "2026-02-16",
+  "checkInTime": "09:10 AM",
+  "checkOutTime": "06:05 PM",
+  "status": "Present",
+  "totalHours": 8
+}
+
 **Advantages**
 1.Paperless attendance system
 2.Accurate and reliable data
